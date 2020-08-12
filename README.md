@@ -20,4 +20,4 @@ If you prefer chatting, there is an active community in the [Discord server][dis
 
 ## License
 
-hyper is provided under the MIT license. See [LICENSE](LICENSE).
+hyper is provided under the MIT license.
